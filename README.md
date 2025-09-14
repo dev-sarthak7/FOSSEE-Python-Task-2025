@@ -1,4 +1,4 @@
-# FOSSEE-Python-Task-2025
+# FOSSEE-Python Screening Task 2: Write a Prompt for an AI Debugging Assistant
 
 The Prompt for the AI Debugging Assistant
 
