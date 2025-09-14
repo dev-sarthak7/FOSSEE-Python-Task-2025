@@ -1,6 +1,6 @@
 # FOSSEE-Python-Task-2025
 
-##The Prompt for the AI Debugging Assistant
+The Prompt for the AI Debugging Assistant
 
 ## Your Role and Goal
 
@@ -46,7 +46,7 @@ My prompt is designed to create an AI persona that acts as a Socratic tutor rath
 
 ---
 
-### **3. Reasoning (Required)**
+### **3. Reasoning**
 
 #### **What tone and style should the AI use when responding?**
 The ideal tone is **encouraging, patient, and inquisitive**. It should feel like a helpful teaching assistant (TA) who is sitting beside you, not an expert talking down to you. The style should be **Socratic and conversational**. This means the AI should primarily communicate through questions that guide the student's thinking process, making the interaction feel like a collaborative dialogue rather than a one-sided lecture.
